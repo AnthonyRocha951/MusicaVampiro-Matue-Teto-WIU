@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Trade+Winds&display=swap');
+body {
+    background: linear-gradient(to right, #000000 , #3d0505, #ff0000 );
+}
+
+h1{
+    margin-left: 15%;
+    font-size: 65px;
+    font-family: 'Trade Winds', cursive;
+    color: white;
+}
+
+h2 {
+    margin-left: 27%;
+    font-size: 40px;
+    font-family: 'Trade Winds', cursive;
+    color: white;
+}
+
+.matue {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.matue-info > h3 {
+    font-size: 45px;
+    font-family: 'Trade Winds', cursive;
+}
+
+.matue-info{
+    color: white;
+    font-size: 24px;
+    font-family: 'Bangers', cursive;
+}
+
+.img-matue {
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px black;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.insta-matue {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.teto {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.teto-info > h3 {
+    font-size: 45px;
+    font-family: 'Trade Winds', cursive;
+}
+
+.teto-info{
+    color: white;
+    font-size: 24px;
+    font-family: 'Bangers', cursive;
+}
+
+.img-teto {
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px black;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.insta-teto {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.wiu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.wiu-info > h3 {
+    font-size: 45px;
+    font-family: 'Trade Winds', cursive;
+}
+
+.wiu-info{
+    color: white;
+    font-size: 24px;
+    font-family: 'Bangers', cursive;
+}
+
+.img-wiu {
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px black;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.insta-wiu {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+/* ARTISTAS ACIMA */
+
+.h2-letra {
+    margin-left: 44%;
+    font-size: 65px;
+    font-family: 'Trade Winds', cursive;
+    color: white;
+}
+
+.letra {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Trade Winds', cursive;
+}
+
+span {
+    font-size: 25px;
+}
+
+.video-final {
+    display: block;
+    margin: 0 auto;
+    box-shadow: 7px 7px 7px black;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.link {
+    margin-left: 38%;
+    font-family: 'Bangers', cursive;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.h2-final {
+    margin-left: 28%;
+}
+
+audio {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: black;
+    border-radius: 10px;
+}
