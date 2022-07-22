@@ -117,6 +117,7 @@ h2 {
 }
 
 .letra {
+    text-align: justify;
     color: white;
     text-align: center;
     font-size: 20px;
