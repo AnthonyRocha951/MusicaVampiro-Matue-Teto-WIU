@@ -4,14 +4,14 @@ body {
 }
 
 h1{
-    margin-left: 15%;
+    text-align: center;
     font-size: 65px;
     font-family: 'Trade Winds', cursive;
     color: white;
 }
 
 h2 {
-    margin-left: 27%;
+    text-align: center;
     font-size: 40px;
     font-family: 'Trade Winds', cursive;
     color: white;
@@ -110,7 +110,7 @@ h2 {
 /* ARTISTAS ACIMA */
 
 .h2-letra {
-    margin-left: 44%;
+    text-align: center;
     font-size: 65px;
     font-family: 'Trade Winds', cursive;
     color: white;
@@ -135,22 +135,15 @@ span {
     border: 2px solid rgb(255, 255, 255);
 }
 
-.link {
-    margin-left: 38%;
-    font-family: 'Bangers', cursive;
-    text-decoration: none;
-    color: white;
-    font-size: 30px;
-}
-
 .h2-final {
-    margin-left: 28%;
+    text-align: center;
 }
 
 audio {
     display: block;
     margin: 0 auto;
-    border: 1px solid rgb(255, 255, 255);
-    background-color: black;
+    border: 6px solid rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
     border-radius: 10px;
+    box-shadow: 7px 6px 10px black;
 }
